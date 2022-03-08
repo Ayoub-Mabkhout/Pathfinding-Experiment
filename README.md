@@ -13,3 +13,5 @@ How to run:
 2. Clone the repository in a folder.
 3. Open that folder in Unity3d as a project.
 4. Run the project from a debug tool in Unity3d.
+
+The C# code for this project is located under "Assets/Scripts".
